@@ -4,14 +4,14 @@ a = 1
 print("a = " + str(a))
 
 # Assign "World" to the name variable using the assignment operator
-name ??? "World"
+name = "World"
 print("Hello, " + str(name))
 # Reassign the name variable with your actual name
-name = # Assign a new value
+name = "David"
 print("Hello, " + str(name))
 
 
 # Use chain assignment here to assign the value 2 to variables "a" and "b".
-a # Assign 2 to both a and b here 2
+a = b = 2 # Assign 2 to both a and b here 2
 print("a = " + str(a))
 print("b = " + str(b))
